@@ -3,22 +3,23 @@ Leçon
 
 Dans la leçon précedente, nous avons vu que le kernel linux alimente de nos jours des millions d'équipement. Avant de commencer, il est bon de rappelé que le terme Linux en fait un abse de language, puisqu'il désigne le noyau Linux. Cependant, beaucoup de distribution utilise le noyau linux ainsi donc communément connu comme le système d"exploitation Linux
 
-Un system linux est divisé en trois partie:
+Un systeme linux est divisé en trois partie:
 
 
-Matériels - This includes all the hardware that your system runs on as well as memory, CPU, disks, etc.
-Linux Kernel - As we discussed above, the kernel is the core of the operating system. It manages the hardware and tells it how to interact with the system.
-User Space - This is where users like yourself will be directly interacting with the system.
-So the first step we’ll need to take is to install Linux on your machine. You have many options to choose from and this course will help inform you and get you started on choosing a Linux distribution.
+Matériels - Cela inclut tout le matériel sur lequel votre système comme les barettes mémoires, processeur, disques durs, etc.
+Le Noyaux Linux - Comme nous l'avons vu plus haut, le noyau est le coeur du systeme d'exploitation. Il supervice le matériel et indique comment intéragir avec le systeme.
+L'espace utilisateur - C'est l'endroit où les utilisateurs réagiront avec le systèmes.
 
-There are many Linux distributions to choose from, we’ll just go over the most popular options.
+Pour la première étape, nous aurons besoin d'installer Linux sur votre machine. Vous avez plusieurs options à choisir et ce tutoriel vous aidera pour votre démarrage et vous accompagnera dans le choix de votre distribution Linux.
 
-Exercise
+Il y a beaucoup de distribution Linux disponible, nous allons passer en revue les plus populaires.
 
-No exercises for this lesson.
+Exercice
 
-Quiz Question
+Aucun exercice dans cette leçon.
 
-No questions, skip ahead!
+Question Quiz
 
-Quiz Answer
+Pas de questions,Passez à la leçon suivante!
+
+Réponse Quiz
